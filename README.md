@@ -1,7 +1,7 @@
 ![gif](https://raw.githubusercontent.com/S4M-RN0/S4M-RN0/main/Assets/Gif%20cyberpunk.gif)
 
 <h1 align="center">S4M-RN0</h1>
-<h3 align="center">High Tech, Low Life</h3>
+<h3 align="center">"O céu sobre o porto tinha cor de televisão num canal fora do ar."</h3>
 
 <br>  
 
